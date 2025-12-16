@@ -6,6 +6,13 @@
   font-family: 'Chill';
   src: url('HachiMaruPop-Regular.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'BT';
+  src: url('BT.ttf') format('truetype');
+}
 .h1 {
   font-family: 'Chill';
+}
+.h2 {
+  font-family: 'BT';
 }
